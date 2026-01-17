@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://youtoy.tech">Website</a> •
-  <a href="https://x.com/youtoytech">Twitter</a> •
-  <a href="https://t.me/youtoytech">Telegram</a>
+  <a href="https://x.com/youtoytech">Twitter</a>
 </p>
 
 <p align="center">
@@ -139,7 +138,6 @@ YouToy supports **550+ device models** from leading manufacturers:
 
 - 🌐 **Website**: [youtoy.tech](https://youtoy.tech)
 - 🐦 **Twitter/X**: [@youtoytech](https://x.com/youtoytech)
-- 💬 **Telegram**: [@youtoytech](https://t.me/youtoytech)
 
 ---
 
