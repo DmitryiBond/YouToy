@@ -75,3 +75,4 @@ pytest.ini
 get-pip.py
 docker.jpg
 .agent/
+verify_transaction.py
