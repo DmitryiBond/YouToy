@@ -9,13 +9,8 @@
 .env.example
 
 # === CORE IMPLEMENTATION (PRIVATE) ===
-# Device control & Buttplug integration
 toy.py
 toy.py.bak
-*buttplug*
-*intiface*
-*Buttplug*
-*Intiface*
 
 # ESP/Device controllers
 esp.py
