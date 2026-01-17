@@ -1,0 +1,82 @@
+# ================================
+# YouToy - Public Repository Config
+# ================================
+
+# === SECRETS & ENVIRONMENT ===
+.env
+.env.*
+*.env
+.env.example
+
+# === CORE IMPLEMENTATION (PRIVATE) ===
+# Device control & Buttplug integration
+toy.py
+toy.py.bak
+*buttplug*
+*intiface*
+*Buttplug*
+*Intiface*
+
+# ESP/Device controllers
+esp.py
+
+# Trading bot logic
+trading.py
+
+# Main Flask application
+main.py
+main.py.bak
+
+# Configuration with secrets
+config.py
+
+# === BALANCE MONITORING (PRIVATE) ===
+balance/
+
+# === DEVICE DATA (PRIVATE) ===
+devices.json
+tinytuya.json
+tuya-raw.json
+snapshot.json
+*.json
+!package.json
+!package-lock.json
+
+# === WEB UI (PRIVATE) ===
+templates/
+static/
+
+# === INFRASTRUCTURE (PRIVATE) ===
+docker-compose.yml
+Dockerfile
+supervisord.conf
+entrypoint.sh
+entrypoint.sh.bak
+requirements.txt
+
+# === BACKUP FILES ===
+*.bak
+
+# === SYSTEM FILES ===
+.DS_Store
+*.DS_Store
+.idea/
+.vscode/
+
+# === PYTHON CACHE ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+env/
+.venv/
+
+# === TESTS (PRIVATE) ===
+tests/
+pytest.ini
+
+# === MISC ===
+get-pip.py
+docker.jpg
+.agent/
